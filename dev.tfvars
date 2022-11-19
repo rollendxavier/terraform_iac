@@ -1,0 +1,5 @@
+vnet_name           = "tf-demo"
+resource_location   = "Australia East"
+resource_group_name = "terraform-demo-rg"
+vnet_cidr           = "10.0.0.0/16"
+environment_tag     = "demo-test"
